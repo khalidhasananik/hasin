@@ -1,0 +1,54 @@
+
+{
+  "articles": [
+    {
+      "filename": "Gali Paglu.pdf",
+      "title": "Why we use curse word",
+      "date": "2024-01-15",
+      "category": "opinion",
+      "tags": ["Research", "curse", "psychology"],
+      "word_count": 1500
+    },
+    {
+      "filename": "repe.pdf",
+      "title": "Research on why rape is a big issue in Bangladesh",
+      "date": "2024-01-15",
+      "category": "Research",
+      "tags": ["Research", "rape", "stress"],
+      "word_count": 1500
+    },
+    {
+      "filename": "Lets steal.pdf",
+      "title": "How to steal like an artist",
+      "date": "2024-01-15",
+      "category": "Opinion",
+      "tags": ["Creativity", "artist", "Originality"],
+      "word_count": 1500
+    },
+    {
+      "filename": "MLM scam.pdf",
+      "title": "Exposing MLM Scam",
+      "date": "2024-01-15",
+      "category": "Expose",
+      "tags": ["Scam", "fraud", "brainwash"],
+      "word_count": 1500
+    },
+    {
+      "filename": "Rise and fall of Nagad.pdf",
+      "title": "Investigating nagad’s financial scam",
+      "date": "2024-01-15",
+      "category": "Research and investigation",
+      "tags": ["Finance", "scam", "investigation"],
+      "word_count": 1500
+    },
+    {
+      "filename": "Telegram মহামারী.pdf",
+      "title": "Exposing telegram nude selling groups",
+      "date": "2024-01-15",
+      "category": "Expose",
+      "tags": ["Telegram", "curse", "fraud"],
+      "word_count": 1500
+    }
+  ]
+}
+
