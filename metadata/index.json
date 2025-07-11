@@ -49,6 +49,11 @@
       "tags": ["Telegram", "curse", "fraud"],
       "word_count": 1500
     }
-  ]
+  ],
+
+  "Linkedin_Post" : {
+    "filename": "linkedinpost.pdf"
+  }
+
 }
 
