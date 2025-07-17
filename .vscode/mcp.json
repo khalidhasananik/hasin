@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "hasin Docs": {
+      "type": "sse",
+      "url": "https://gitmcp.io/khalidhasananik/hasin"
+    }
+  }
+}
